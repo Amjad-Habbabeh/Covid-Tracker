@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site]()
+### [Live Site](https://6047e7f06e0edd008ce642d3--stoic-hermann-1713d9.netlify.app/)
 
 <img src='./CovidTracker.jpg' alt='COVID-19 Tracker' >
 
